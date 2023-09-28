@@ -13,7 +13,7 @@ public class Dao<T> {
 	private EntityManager em;
 	private Class<T> clazz;
 
-	public Dao(EntityManager em, Class<T> clazz) {
+	public Dao(EntityManager em, Class<T> clazz ){
 		this.em = em;
 		this.clazz = clazz;
 	}
