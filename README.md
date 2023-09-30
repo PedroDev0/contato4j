@@ -1,4 +1,4 @@
-<h2 align="center">Contato4j</h2>
+<h1>Contato4j</h2>
 <p >Este é um exemplo de projeto que utiliza as tecnologias JAX-RS (Java API for RESTful Web Services), JPA (Java Persistence API) e Jakarta EE 10 para criar um aplicativo web Java.</p>
 <h1> Visão Geral</h1>
 <p>Este projeto demonstra como criar uma aplicação web Java moderna que expõe serviços RESTful e interage com um banco de dados usando JPA. Ele utiliza as seguintes tecnologias principais: <p>
