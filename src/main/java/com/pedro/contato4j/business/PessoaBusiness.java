@@ -32,4 +32,10 @@ public class PessoaBusiness extends Bss<Pessoa> {
 		dao.delete(entity);
 
 	}
+
+	public Pessoa getEntity(Object pk) {
+	
+		return dao.getEntity(pk);
+
+	}
 }
